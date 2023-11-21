@@ -1,0 +1,4 @@
+rsa:
+  private-key: classpath:certificates/id_rsa
+  public-key: classpath:certificates/id_rsa.pub
+
